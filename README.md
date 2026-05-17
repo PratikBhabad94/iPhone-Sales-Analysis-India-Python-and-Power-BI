@@ -14,6 +14,9 @@ This project analyzes iPhone sales data from Flipkart to understand how pricing,
 
 •	Plotly :- For interactive and dynamic visualizations, including line charts and geographical maps.
 
+
+# Tools & Technologies
+
 •	Power BI :- Dasdboard & Reporting
 
 •	Jupyter Notebook :- Development enviornment
