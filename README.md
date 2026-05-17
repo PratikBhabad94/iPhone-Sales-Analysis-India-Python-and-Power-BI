@@ -2,6 +2,12 @@
 
 The apple iphone sales analysis project aims to analyze and visualize the sales data of iPhones exclusively within the Indian market using Python. Leveraging the power of NumPy and Pandas for data manipulation, along with Plotly for data visualization, this project will provide a comprehensive exploration of iPhone sales trends, patterns, and insights in the Indian market.
 
+
+Problem Statement
+
+This project analyzes iPhone sales data from Flipkart to understand how pricing, discounts, RAM configurations, and customer ratings influence sales performance. Using Python (Pandas, Plotly) and Power BI, the analysis identifies key trends: budget iPhones dominate customer engagement, 3GB RAM models receive highest discounts, and premium devices maintain rating leadership despite lower review volume. Data quality issues (RAM inconsistencies) were identified and corrected using Apple's official specifications.
+
+
 # Python liberaries used
 
 •	NumPy and Pandas :- For data manipulation, cleaning, and numerical analysis.
@@ -9,41 +15,16 @@ The apple iphone sales analysis project aims to analyze and visualize the sales 
 •	Plotly :- For interactive and dynamic visualizations, including line charts and geographical maps.
 
 
-# Process
+# Conclusion and Ley Takeways
 
-•	Data set collected from online
+Budget iPhones (under ₹50k) including XR and SE models generate 5x more customer ratings (70k+) compared to premium devices (1k-2k), indicating higher user engagement in affordable segment.
 
-•	Understand the data
+3GB RAM models (iPhone XR, 8 Plus, SE) receive highest average discounts (14-18%), while premium 6GB models see only 6-8% discounts, confirming pricing power of flagship devices.
 
-•	Data cleaning and transformation
+Discount percentage shows weak correlation with star ratings – higher discounts don't guarantee better customer satisfaction, suggesting brand loyalty overprice sensitivity.
 
-•	Analyze the data
-
-•	Data visualization
-
-
-# Objectives
-
-•	Rating and Reviews Analysis 
-  
-   Identified the top 10 highest-rated iPhones and visualized their ratings and reviews using bar charts, Insights from this analysis can guide marketing 
-   strategies and product improvements.
-  
-•	Discount Percentage Investigation  
-  
-   I explored the relationship between discounts and sales performance. By calculating discount percentages for different iPhone versions, I determined 
-   how pricing impacts consumer behavior. These findings can inform pricing strategies and promotional campaigns.
-  
-
-# Conclusion
-
-There is a linear relationship between the discount percentage on iPhones on Flipkart and the number of ratings. It means iPhones with high discounts are sold more in India.
-
-1.APPLE iPhone 8 Plus (Gold, 64 GB) was the most appreciated iPhone in India 
-
-2.iPhones with lower sale prices are sold more in India 
-
-3.iPhones with high discounts are sold more in India
+Data quality improvements – Identified and corrected RAM inconsistencies for 15+ models using Apple's official specifications, ensuring accurate analysis.
+iPhone 11 Pro Max (4.7★) leads in customer satisfaction, while iPhone XR dominates in ratings volume, highlighting different success metrics for premium vs value segments
 
 
 
