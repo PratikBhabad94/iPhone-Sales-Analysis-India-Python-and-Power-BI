@@ -1,4 +1,4 @@
-# Apple iPhone Sales Analysis in india ( Markrt Trends & Product Insights )
+# Apple iPhone Sales Analysis in india ( Market Trends & Product Insights )
 
 Analyzes iPhone sales in India using Python and Power BI. Cleans Flipkart dataset of 62 models, identifies pricing and RAM trends, and reveals that budget iPhones (XR, SE) drive 5x more customer engagement than premium devices.
 
